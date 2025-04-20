@@ -1,6 +1,6 @@
 # tugas_flutter_stack
 
-A new Flutter project.
+Tugas flutter tentang cara membuat tampilan profile menggunakan Stack
 
 ## Getting Started
 
